@@ -1,0 +1,51 @@
+/* CSS Document */
+#world-menu {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 12px;
+  width: 600px;
+  text-align: left;
+  border-collapse: collapse;
+  margin: 30px 30px 30px 15px;
+}
+
+#world-menu th {
+  font-weight: normal;
+  font-size: 14px;
+  border-bottom: 2px solid #000;
+  border-right: 2px solid #000;
+  border-left: 2px solid #000;
+  padding: 8px 2px;
+}
+
+#world-menu td {
+  border-right: 2px solid #000;
+  border-left: 2px solid #000;
+  padding: 12px 2px 0;
+  vertical-align:top;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 24px;
+  color: #ffffff;
+  padding: 8px 2px;
+}
+.full {
+  color: darkred;
+
+}
+
+.veryhigh {
+  color: red;
+  
+}
+
+.high {
+  color: orange;
+  
+}
+
+.medium {
+  color: green;
+  
+}
